@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FirstApp</string>
+    <string name="slang">tu chadarmod h</string>
+    <string name="question">Bolo ky ho tum?</string>
+    <string name="input_field_text">Bolo bolo, sharmana ksa</string>
+    <string name="submit__txt">Ye hu mai</string>
+    <string name="nextPrompt">Age bolo ky h</string>
+    <string name="scndScreenText">Welcome to Chandan Gopal ka sher</string>
+    <string name="backToMainActivity">Ghr jana h to idhar dabaiye</string>
 </resources>
